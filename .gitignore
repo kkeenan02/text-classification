@@ -1,0 +1,12 @@
+__init__.py
+__pycache__
+.ipynb_checkpoints
+results
+amazon_*
+*.ipynb
+imdb*
+*.py
+positive-*
+num*
+runtime_test_with_*
+test_results.md
