@@ -11,7 +11,7 @@ You are provided with two data sets;
    1. This data set is a gzipped csv file with two columns, `review` and `label`, with 241,999 rows.
    2. You will use this training data set to develop, train and test your classifier.
    3. The positive class, `label: 1`, contains only positive movie reviews
-   4. The negative class, `label: 2`, contains negative movie and product movie
+   4. The negative class, `label: 0`, contains negative movie and product movie
 
 2. `runtime_test_without_labels.csv.gz`
    1. This data set is also a gzipped csv file with a single column, `review`, with 198,988 rows.
