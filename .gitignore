@@ -10,3 +10,15 @@ positive-*
 num*
 runtime_test_with_*
 test_results.md
+*.bin
+*.ft
+*.vec
+*.png
+*.zip
+*.en
+*.npz
+*.csv
+*.pkl
+*_best_model_*
+*paraphrase*
+*.txt
