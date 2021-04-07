@@ -14,7 +14,7 @@ You are provided with two data sets;
    4. The negative class, `label: 0`, contains negative movie and product movie
 
 2. `runtime_test_without_labels.csv.gz`
-   1. This data set is also a gzipped csv file with a single column, `review`, with 198,988 rows.
+   1. This data set is also a gzipped csv file with a single column, `review`, with 5,050 rows.
    2. You will use this data set as a simulated runtime scenario, where your classifier will be tested in recovering a known set of positives.
 
 
