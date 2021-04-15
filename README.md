@@ -35,5 +35,5 @@ You are provided with two data sets;
 1. A summary of your solution and rationale for the methodology used (this can be a text cell in the notebook)
 2. You should capture all of the steps you took to solve the problem in a reproducible notebook. Documenting your rationale with comments is good.
 3. You should provide your final classification report at the optimal threshold on a random holdout test sample from the `review_data_with_labels.csv.gz`
-4. Using your optimal threshold determined using your holdout test set, you should use your model to classify all reviews in the `runtime_test_without_labels.csv.gz` data set. Classification labels should be appended to the corresponding row of the dataframe, and the resulting dataframe written to csv
+4. Using your optimal threshold determined using your holdout test set, you should use your model to classify all reviews in the `runtime_test_without_labels.csv.gz` data set. Classification labels should be appended to the corresponding row of the dataframe, and the resulting dataframe written to csv. Please ensure you have included the __original review text__ in the csv, since this will be used as a join key for the labels by us.
 5. Please email your results back to `kevin.keenan@smarsh.com` from the email address provided during the application process.
